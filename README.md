@@ -7,9 +7,11 @@ No JavaScript. No CSS frameworks. All styling lives in a single external
 stylesheet, and the layouts are built with the CSS `float` and `clear`
 properties as required by the lab.
 
-## Live Site
+## Links
 
-> GitHub Pages URL: https://Bilal-Ahmad6.github.io/portfolio/
+- **Live portfolio (GitHub Pages):** https://bilal-ahmad6.github.io/portfolio/
+- **Repository:** https://github.com/Bilal-Ahmad6/portfolio
+- **Custom domain (account-level):** https://lawyaar.me/portfolio/
 
 ## Pages
 
