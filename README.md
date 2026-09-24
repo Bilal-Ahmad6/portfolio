@@ -11,7 +11,6 @@ properties as required by the lab.
 
 - **Live portfolio (GitHub Pages):** https://bilal-ahmad6.github.io/portfolio/
 - **Repository:** https://github.com/Bilal-Ahmad6/portfolio
-- **Custom domain (account-level):** https://lawyaar.me/portfolio/
 
 ## Pages
 
